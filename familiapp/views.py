@@ -22,3 +22,5 @@ def crear(request, dni, nombre, apellido):
     return render(request, 'crear.html',data)
 
 # Create your views here.
+
+"hola esto despues borralo"
