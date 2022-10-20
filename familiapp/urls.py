@@ -5,3 +5,4 @@ urlpatterns = [
     path('crear/<dni>/<nombre>/<apellido>/', views.crear),
     path('mostrar/', views.mostrar),
 ]
+#esto es un ejemplo
